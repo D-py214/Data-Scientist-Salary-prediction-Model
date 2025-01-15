@@ -1,17 +1,41 @@
 # Data-Scientist-Salary-prediction-Model
+## Table of Contents Project 
+- Overview
+- Data Sources 
+- Tools
+- Data Cleaning and preperation
+- EDA
+- Data Analysis
+- Results
+- Recommendations
+- Limitations 
+- Refrences
 
-Developed a Machine Learning model to accurately predict salaries for Data Scientist roles based on various influencing factors. Sourced and curated a comprehensive dataset from Kaggle, ensuring the data's relevance and quality for analysis. 
+### Overview
 
-Utilized Pandas and NumPy for efficient data manipulation.
 
-Handled missing values strategically, Encoded categorical variables using appropriate methods.
+### Data Sources
 
-Implemented the Random Forest algorithm for robust prediction.
 
-Performed rigorous training and cross-validation to ensure model generalization.
+### Tools
 
-Conducted hyperparameter tuning to optimize model performance. 
 
-Identified the most significant predictors of salary using feature importance analysis within the Random Forest model.
+### Data Cleaning and preperation
 
-Achieved a high accuracy of 91% on the validation dataset, demonstrating strong model performance.
+
+### EDA
+
+
+### Data Analysis
+
+
+### Results
+
+
+### Recommendations
+
+
+### Limitations 
+
+
+
